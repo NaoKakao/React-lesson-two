@@ -1,8 +1,8 @@
 function Footer() {
     return (
-  <header>
-    <h1>FOOTER IS HERE</h1>
-  </header>
+  <footer>
+    <p>Made by Valeriia Birner</p>
+  </footer>
   );
   }
   

@@ -1,9 +1,10 @@
 import React from "react";
+import CardList from "../cards/Cards-list";
 
 function Main() {
   return (
   <React.Fragment>
-    <h1>MAIN PAGE</h1>
+    <CardList />
   </React.Fragment>
   );
   }
